@@ -14,7 +14,7 @@ This repository documents an internal IT audit for Botium Toys, a fictional U.S.
 - **Documentation**: Markdown, PDF.
 
 ## Repository Structure
-- `audit-report.pdf`: Comprehensive report summarizing compliance status, risks, and recommendations.
+- [audit-report.pdf](https://github.com/Usman-emtee/Security-Audit/blob/main/audit-report.pdf): Comprehensive report summarizing compliance status, risks, and recommendations.
 - `checklist/`: NIST CSF checklist.
 
 
