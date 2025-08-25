@@ -22,6 +22,6 @@ This repository documents an internal IT audit for Botium Toys, a fictional U.S.
 This audit is based on a fictional scenario with hypothetical data. Always obtain explicit permission before auditing real systems to ensure compliance with legal and ethical standards.
 
 ## Contact
-- GitHub: [yourusername](https://github.com/usman-emtee)
-- LinkedIn: [yourusername](https://linkedin.com/in/usman-mt)
+- GitHub: [usman-emtee](https://github.com/usman-emtee)
+- LinkedIn: [usman-mt](https://linkedin.com/in/usman-mt)
 - Email: usmanemtee@gmail.com
